@@ -1,1 +1,0 @@
-# Wiq-Study
