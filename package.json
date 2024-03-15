@@ -1,6 +1,6 @@
 {
   "name": "vue-demo",
-
+  "version": "1.0.0",
   "description": "A vue,js project",
   "author": "wangjiaqi <wangjiaqi@jwzg.com>",
   "private": true,
